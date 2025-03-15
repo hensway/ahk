@@ -1,7 +1,7 @@
 ; ck
 Run "steam://rungameid/2767030"
 WinWait "Launcher"
-Sleep 666
+Sleep 2077
 WinActivate
 MouseMove 1100, 600, 0
 MouseMove 1100, 610, 2
